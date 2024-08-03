@@ -1,6 +1,6 @@
 # stop looking at my github i don't even put any of my projects on here
-i only have use this account to contribute to random github projects<br>
-if you want to see an actual thing i made go check out [My Web Site](https://1024x2.xyz) i'll probably put something on there eventually i think
+i only have use this account to contribute to github projects<br>
+if you want to see an actual thing i made go check out [My Web Site](https://git.1024x2.xyz) it has some of my projects on there
 # Oh my god this sswag critter Is Leaking
 ![](https://c.tenor.com/gPCBp3LTfZ8AAAAC/mother-fat.gif)
 ![](https://media1.tenor.com/m/GI3qqiJQ0XcAAAAC/github-github-copilot.gif)
